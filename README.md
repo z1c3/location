@@ -1,6 +1,10 @@
 # location
 
 Location is a simple bash script that allows you to get a custom github organization location
+
+## Example
+![Screenshot](/assest/screenshot.png)
+
 ## Usage
 
 ```bash
